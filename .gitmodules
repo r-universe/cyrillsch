@@ -5,6 +5,9 @@
 [submodule "IVDML"]
 	path = IVDML
 	url = https://github.com/cyrillsch/ivdml
+[submodule "RPIV"]
+	path = RPIV
+	url = https://github.com/cyrillsch/rpiv
 [submodule "weightedGCM"]
 	path = weightedGCM
 	url = https://github.com/cran/weightedGCM
